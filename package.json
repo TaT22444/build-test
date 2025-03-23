@@ -13,8 +13,7 @@
     "@astrojs/react": "^4.2.1",
     "astro": "^5.5.4",
     "chart.js": "^4.4.8",
+    "firebase-admin": "^11.11.1",
     "sass": "^1.86.0"
-  },
-  "devDependencies": {
   }
 }
